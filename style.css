@@ -1,3 +1,6 @@
+body {
+    padding: 0 50px;
+}
 header {
     background-color: darkblue;
     color: white;
@@ -22,7 +25,7 @@ article {
     float: left;
     height: fit-content;
     width: 500px;
-    padding: 0px 50px;
+    padding: 0 50px;
 
 }
 footer {
