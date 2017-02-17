@@ -1,0 +1,33 @@
+header {   
+    font-size: 0.6em;
+}
+
+nav {
+    float:none;
+    padding: 0px;
+    margin: 0px;
+}
+article {
+    margin-left: 0px;
+    padding-left: 0px;
+    border-left: none;
+}
+.image-container {
+    float: none;
+    margin: 0px;
+}
+.interactive-button {
+    color: #ffffff;
+    margin:0px;
+    margin-top: 5px;
+    padding: 0px;
+    text-align: center;
+    height: 30px;
+    border-radius: 5px;
+}
+#rotated {
+    transform: rotate(0deg);
+    margin: 0px;
+    margin-top: 5px;
+}
+  
