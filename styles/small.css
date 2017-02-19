@@ -1,0 +1,23 @@
+header {   
+    font-size: 0.6em;
+}
+
+.container {
+    flex-direction: column;
+}
+nav {
+    margin: 0;
+}
+.interactive-button {
+    color: #ffffff;
+    margin-top: 5px;
+    padding: 5px 0;
+    text-align: center;
+    border-radius: 5px;
+}
+#rotated {
+    transform: rotate(0);
+    margin: 0;
+    margin-top: 5px;
+}
+  
